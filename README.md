@@ -8,6 +8,7 @@ For this task, I developed a responsive landing page called Student Connect, des
 
 ✅ College cutoff rankings to help students make informed choices
 
+
 ✨ Key Features:
 
 ✔ Fully responsive design with a modern layout for both desktop and mobile
@@ -17,6 +18,7 @@ For this task, I developed a responsive landing page called Student Connect, des
 ✔ Interactive sections for easy access to events and rankings
 
 ✔ Simple and clean UI/UX for better user engagement
+
 
 💡 Learning gained: 
 
