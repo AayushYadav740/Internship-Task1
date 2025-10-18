@@ -10,3 +10,5 @@ For this task, I developed a responsive landing page called Student Connect, des
 ✔ Sticky navigation bar with smooth transitions on scroll/hover
 ✔ Interactive sections for easy access to events and rankings
 ✔ Simple and clean UI/UX for better user engagement
+
+💡 Learning gained: Enhanced my skills in HTML, CSS, and JavaScript while focusing on responsiveness, interactivity, and applying UI/UX design principles.
